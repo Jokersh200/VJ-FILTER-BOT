@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/9abd176d187b5eb596b42.jpg" alt="VJ-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  sh FILTER BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
@@ -25,7 +25,7 @@
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete 
 
-Join My <a href='https://telegram.dog/vj_botz'>Channel</a> .</b>
+Join My <a href='https://t.me/joker67034'>Channel</a> .</b>
 
 ## Commands
 ```
